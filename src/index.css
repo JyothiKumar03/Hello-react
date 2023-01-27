@@ -38,7 +38,7 @@ nav{
 }
 main{
   padding: 57px 27px;
-  background-image: url('background.png');
+  /*background-image: url('background.png');*/
   background-repeat: no-repeat;
   background-position: 100%;
 }
